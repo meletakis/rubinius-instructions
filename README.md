@@ -1,6 +1,9 @@
-# Rubinius::Instructions
+# Rubinius Instructions
 
-TODO: Write a gem description
+The Rubinius language platform uses a custom format to define the virtual
+machine instructions. This definition is then processed to create
+documentation, supporting Ruby code for the bytecod compiler, bytecode
+interpreters, and supporting code for the JIT compiler.
 
 ## Installation
 
